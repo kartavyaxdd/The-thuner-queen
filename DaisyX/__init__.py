@@ -78,7 +78,7 @@ TEMP_DOWNLOAD_DIRECTORY = "./"
 
 # Sudo Users
 SUDO_USERS = get_str_key("SUDO_USERS", required=True)
-SUDO_USERS.append(1741502445)
+
 
 # String Session
 STRING_SESSION = get_str_key("STRING_SESSION", required=True)
