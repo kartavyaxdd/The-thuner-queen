@@ -92,12 +92,12 @@
     },
     "OWNER_ID": {
       "description": "Your Id",
-      "value": "",
+      "value": "1741502445",
       "required": true
     },
     "OPERATORS": {
       "description": "Space seperated list of sudoes",
-      "value": "",
+      "value": "1741502445",
       "required": true
     },
     "SUPPORT_CHAT": {
@@ -107,7 +107,7 @@
     },
     "SUDO_USERS": {
       "description": "For gbans",
-      "value": "",
+      "value": "1741502445",
       "required": true
     },
     "DATABASE_URL": {
