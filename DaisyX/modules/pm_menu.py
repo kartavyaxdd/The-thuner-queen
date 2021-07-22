@@ -44,9 +44,7 @@ def help_markup(modules):
     return markup
 
 
-STICKERS = (
-    ""
-)
+STICKERS = ""
 
 
 @register(cmds="start", no_args=True, only_groups=True)
@@ -76,7 +74,9 @@ async def get_start_func(message, strings, edit=False):
         ),
     )
     buttons.add(
-        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/The_Thunder_Queen"),
+        InlineKeyboardButton(
+            strings["btn_channel"], url="https://t.me/The_Thunder_Queen"
+        ),
         InlineKeyboardButton(
             strings["btn_group"], url="https://t.me/The_Thunder_Queen"
         ),
