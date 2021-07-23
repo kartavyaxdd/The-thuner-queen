@@ -187,8 +187,7 @@ STRINGS:
 
   pm_menu:
     start_hi_group: 'Hey there! My name is Daisy'
-    start_hi: "Hey there! My name is <b>Thunder Queen.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
-    btn_source: "📜 Source code"
+    start_hi: "Hey there! My name is <b>⚡⚡Thunder Queen⚡⚡.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
     btn_channel: "🙋‍♀️ Thunder Queen News"
