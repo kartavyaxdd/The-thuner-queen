@@ -76,7 +76,7 @@ async def get_start_func(message, strings, edit=False):
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
             strings["btn_source"],
-            url="https://github.com/kartavyaxdd/the-thunder-Queen",
+            url="https://github.com/kartavyaxdd/The-thuner-queen",
         ),
     )
     buttons.add(
