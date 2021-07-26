@@ -74,7 +74,7 @@ async def get_start_func(message, strings, edit=False):
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
             strings["btn_source"],
-            url="https://github.com/kartavyaxdd/the-thunder-Queen-",
+            url="https://github.com/kartavyaxdd/the-thunder-Queen",
         ),
     )
     buttons.add(
@@ -88,7 +88,7 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(
         InlineKeyboardButton(
             "👸🏼 Add Thunder Queen to your group",
-            url=f"https://telegram.me/daisyxbot?startgroup=true",
+            url=f"https://telegram.me/TheThunderQueen_Robot?startgroup=true",
         )
     )
     # Handle error when user click the button 2 or more times simultaneously
