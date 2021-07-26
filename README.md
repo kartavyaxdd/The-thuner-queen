@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
+<h1 align="center"><b>❤️ The Thuner Queen⚡</b></h1>
 
 ## Unmaintained. The new repo of @DaisyXbot is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
