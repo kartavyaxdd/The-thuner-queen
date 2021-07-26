@@ -186,7 +186,7 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Daisy'
+    start_hi_group: 'Hey there! My name is ⚡⚡Thunder Queen ⚡⚡'
     start_hi: "Hey there! My name is <b>⚡⚡Thunder Queen⚡⚡.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
     btn_help: "❔ Help"
     btn_source: "📜 Source code"
