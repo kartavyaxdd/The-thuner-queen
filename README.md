@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>❤️ The Thuner Queen⚡</b></h1>
-
+##NOTE THIS IS A CLONE OF DAISY BOT ALL CREDITS GOES TO THEM AS WELL
 ## Unmaintained. The new repo of @TheThunderQueen_RoBot is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
